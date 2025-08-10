@@ -1,7 +1,7 @@
-# ☁️ Cloud Data Engineering Program (8–9 Months)
+# ☁️ Cloud Data Engineering
 
 Welcome to my Cloud Data Engineering journey! 🚀  
-This program focuses on building strong skills in **data acquisition, modeling, warehousing, streaming, orchestration**, and **cloud architecture** using AWS.  
+In this journey we focuses on building strong skills in **data acquisition, modeling, warehousing, streaming, orchestration**, and **cloud architecture** using AWS.  
 Below is the roadmap of the technologies and concepts covered.
 
 ---
